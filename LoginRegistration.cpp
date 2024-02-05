@@ -1,5 +1,5 @@
 //--------------------------------------------------------//
-// Login/registration system V1 (beginner version)                          //
+// Login/registration system V1 (beginner version)        //
 //--------------------------------------------------------//
 #include <iostream>
 #include <fstream>
